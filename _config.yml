@@ -67,9 +67,10 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+#oschina: git@git.oschina.net:billhe/blog.git
 deploy:
   type: git
   repo: 
         github: git@github.com:billhezhiwen/billhezhiwen.github.io.git
-        oschina: git@git.oschina.net:billhe/blog.git
+        coding: git@git.coding.net:billhe/blog.git
   branch: master
